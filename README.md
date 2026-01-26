@@ -1,6 +1,6 @@
 # STREAM-VAE
 
-This is a clean, minimal repo you can run **immediately** to test STREAM-VAE and reproduce numbers.
+This is a clean, minimal repo you can run **immediately** to test STREAM-VAE and reproduce numbers. You can find the paper here: https://arxiv.org/abs/2511.15339
 
 ## Folder layout
 
