@@ -75,7 +75,7 @@ pip install TSB-AD
 ## Summary Comparison on TSB-AD Multivariate Benchmark
 
 **Summary comparison of STREAM-VAE with representative competitors across 180 time series from 17 datasets**, evaluated using point-wise, range-based, event-based, and affiliation metrics.  
-Higher is better for all metrics.
+Higher is better for all metrics. We used TSB-AD-M Eval.
 
 | Method | VUS-PR | VUS-ROC | AUC-PR | AUC-ROC | Standard-F1 | PA-F1 | Event-based-F1 | R-based-F1 | Affiliation-F1 |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -103,3 +103,7 @@ Higher is better for all metrics.
 | TranAD | 0.18 | 0.65 | 0.14 | 0.59 | 0.21 | 0.68 | 0.40 | 0.21 | 0.79 |
 | LOF | 0.14 | 0.60 | 0.10 | 0.53 | 0.15 | 0.57 | 0.32 | 0.14 | 0.76 |
 | AnomalyTransformer | 0.12 | 0.57 | 0.07 | 0.52 | 0.12 | 0.53 | 0.33 | 0.14 | — |
+
+
+## Acknowledgement
+We thank the authors of TSB-AD for releasing the multivariate time-series anomaly detection benchmark and evaluation framework, which we use for fair and reproducible comparison. Their repo can be found at https://github.com/TheDatumOrg/TSB-AD/tree/main/TSB_AD and their paper at https://proceedings.neurips.cc/paper_files/paper/2024/hash/c3f3c690b7a99fba16d0efd35cb83b2c-Abstract-Datasets_and_Benchmarks_Track.html
