@@ -1,6 +1,9 @@
 # STREAM-VAE
 
-This is a clean, minimal repo you can run **immediately** to test STREAM-VAE by Mercedes-Benz AG and reproduce numbers. You can find the paper here: https://arxiv.org/abs/2511.15339
+This is a clean, minimal repo you can run **immediately** to test STREAM-VAE by Mercedes-Benz AG and reproduce numbers
+
+**Authors:** Kadir-Kaan Özer, René Ebeling, Markus Enzweiler  
+**Paper:** https://arxiv.org/abs/2511.15339
 
 ## Folder layout
 
