@@ -1,6 +1,6 @@
 # STREAM-VAE
 
-This is a clean, minimal repo you can run **immediately** to test STREAM-VAE by Mercedes-Benz AG and reproduce numbers
+This is a clean, minimal repo you can run **immediately** to test STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection by Mercedes-Benz AG and reproduce numbers
 
 **Authors:** Kadir-Kaan Özer, René Ebeling, Markus Enzweiler  
 **Paper:** https://arxiv.org/abs/2511.15339
