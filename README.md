@@ -1,6 +1,6 @@
 # STREAM-VAE
 
-STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection by Mercedes-Benz AG
+STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection by Mercedes-Benz AG. Accepted to appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 22-25, 2026.
 
 This is a clean, minimal repo you can run **immediately** to test the model and reproduce numbers.
 
