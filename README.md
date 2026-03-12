@@ -3,9 +3,7 @@
 </h1>
 
 <div align="center">
-
-# Predictable Query Dynamics for Time-Series Anomaly Detection
-
+  
 [![Status: Accepted](https://img.shields.io/badge/Status-Accepted-brightgreen.svg?style=for-the-badge)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
