@@ -6,7 +6,7 @@ This is a clean, minimal repo you can run **immediately** to test the model and 
 
 **Authors:** Kadir-Kaan Özer, René Ebeling, Markus Enzweiler 
 
-Paper: https://arxiv.org/abs/2511.15339
+Paper: https://arxiv.org/abs/2511.15339v2
 HuggingFace: https://huggingface.co/papers/2511.15339
 
 ## Folder layout
